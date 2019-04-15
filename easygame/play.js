@@ -31,12 +31,6 @@ function choose(v)
 	}
 	else
 	{
-		/*
-			13312
-			13221
-			11312
-			32113
-		*/
 		alert("你的操作序列:"+op);
 		if(s==245710592)
 			window.location.href="accept.html"; 
